@@ -3,8 +3,9 @@
 This will be the central place for Blanchard lab to store code. Some repositories will be public, some are private
 
 ## Popular projects
- * [pTIRF microfluidic system](https://github.com/stjude-smc/pTIRF-microfluidic-system)
  * [SPARTAN](https://github.com/stjude-smc/SPARTAN)
+ * [tirf-webtools](https://github.com/stjude-smc/tirf_webtools)
+ * [pTIRF microfluidic system](https://github.com/stjude-smc/pTIRF-microfluidic-system)
  * [Arduino-based syncronization device for laser cameras and shutters](https://github.com/stjude-smc/sync_device)
 
 ## How to work with it
