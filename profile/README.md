@@ -6,7 +6,7 @@ This will be the central place for Blanchard lab to store code. Some repositorie
  * [SPARTAN](https://github.com/stjude-smc/SPARTAN)
  * [tirf-webtools](https://github.com/stjude-smc/tirf_webtools)
  * [pTIRF microfluidic system](https://github.com/stjude-smc/pTIRF-microfluidic-system)
- * [Arduino-based syncronization device for laser cameras and shutters](https://github.com/stjude-smc/sync_device)
+ * [Arduino Due-based syncronization device for microscope cameras and laser shutters](https://github.com/stjude-smc/sync_device_32)
 
 ## How to work with it
 
