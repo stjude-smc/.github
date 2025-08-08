@@ -4,10 +4,10 @@ This will be the central place for Blanchard lab to store code. Some repositorie
 
 ## Popular projects
  * [SPARTAN](https://github.com/stjude-smc/SPARTAN)
+ * [microsync – microscope control with microsecond precision, based on Arduino Due](https://github.com/stjude-smc/microsync)
  * [tirf-webtools](https://github.com/stjude-smc/tirf_webtools)
  * [pTIRF microfluidic system](https://github.com/stjude-smc/pTIRF-microfluidic-system)
- * [Arduino Due-based syncronization device for microscope cameras and laser shutters](https://github.com/stjude-smc/sync_device_32)
-
+ 
 ## How to work with it
 
 We are going to have software projects here. What if I want to contribute to an internal project?
